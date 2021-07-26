@@ -3,7 +3,7 @@
 * **講師:** [Song Jaehyun (宋 財泫)](https://www.jaysong.net)（関西大学総合情報学部）
 * **日時:** 2021年 8月 5, 6, 7, 9, 10日
 * **教室:** 未定 (9〜10日はオンライン)
-* **シラバス:** Link
+* **シラバス:** [Link](Syllabus/Syllabus.pdf)
 
 ## 資料
 
