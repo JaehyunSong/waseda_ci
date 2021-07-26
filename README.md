@@ -7,12 +7,12 @@
 
 ## 資料
 
-||内容|スライド|データ|
-|:---:|---|:---:|---|
-|1|因果推論の考え方とランダム化比較試験| [DL](Slide/Slide_Day1.pdf)||
-|2|マッチング| [DL](Slide/Slide_Day2.pdf)||
-|3|差分の差分法| [DL](Slide/Slide_Day3.pdf)||
-|4|回帰不連続デザイン| [DL](Slide/Slide_Day4.pdf)||
+||内容|スライド|実習用資料|データ|
+|:---:|---|:---:|:---:|---|
+|1|因果推論の考え方とランダム化比較試験| [DL](Slide/Slide_Day1.pdf)| [DL](Practice/Practice_day1.html) ||
+|2|マッチング| [DL](Slide/Slide_Day2.pdf)|||
+|3|差分の差分法| [DL](Slide/Slide_Day3.pdf)|||
+|4|回帰不連続デザイン| [DL](Slide/Slide_Day4.pdf)|||
 
 ## 参考資料
 
