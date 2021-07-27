@@ -13,7 +13,7 @@
 |:---:|---|:---:|:---:|---|
 |1|因果推論の考え方とランダム化比較試験| [DL](Slide/Slide_Day1.pdf)| [DL](Practice/Practice_Day1.html) ||
 |2|Rの使い方 (復習)| | | |
-|3|マッチング| [DL](Slide/Slide_Day2.pdf)|||
+|3|マッチング| [DL](Slide/Slide_Day2.pdf)| [DL](Practice/Practice_Day2.html) ||
 |4|差分の差分法| [DL](Slide/Slide_Day3.pdf)|||
 |5|回帰不連続デザイン| [DL](Slide/Slide_Day4.pdf)|||
 
