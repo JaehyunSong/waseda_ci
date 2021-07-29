@@ -15,7 +15,7 @@
 |2|Rの使い方 (復習)| | | |
 |3|マッチング| [DL](Slide/Slide_Day2.pdf)| [DL](Practice/Practice_Day2.html) | [`Day2_Data1.csv`](Data/Day2_Data1.csv) <br/> [`Day2_Data2.csv`](Data/Day2_Data2.csv) <br/> [`Day2_Data3.csv`](Data/Day2_Data3.csv) <br/> `Day2_Data4.tsv`(別途配布) |
 |4|差分の差分法| [DL](Slide/Slide_Day3.pdf)| [DL](Practice/Practice_Day3.html) | [`Day3_Data1.csv`](Data/Day3_Data1.csv) <br/> [`Day3_Data2.csv`](Data/Day3_Data2.csv) <br/> `Day3_Data3.csv`(別途配布) <br/> [`Day3_Data4.csv`](Data/Day3_Data4.csv) <br/> `Day3_Data5.csv`(別途配布) <br/> [`Day3_Data6.csv`](Data/Day3_Data6.csv) |
-|5|回帰不連続デザイン| [DL](Slide/Slide_Day4.pdf)| [DL](Practice/Practice_Day4.html) ||
+|5|回帰不連続デザイン| [DL](Slide/Slide_Day4.pdf)| [DL](Practice/Practice_Day4.html) | [`Day4_Data1.csv`](Data/Day4_Data1.csv) <br/> [`Day4_Data2.csv`](Data/Day4_Data2.csv) <br/> [`Day4_Data3.csv`](Data/Day4_Data3.csv) <br/> `Day4_Data4.dta`(別途配布) |
 
 ## 参考資料
 
