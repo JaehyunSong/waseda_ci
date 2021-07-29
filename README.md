@@ -1,7 +1,7 @@
 # 研究方法論集中セミナー (因果推論)
 
 * **講師:** [Song Jaehyun (宋 財泫)](https://www.jaysong.net)（関西大学総合情報学部）
-* **日時:** 2021年 8月 5, 6, 7, 9, 10日
+* **日時:** 2021年 8月 5, 6, 7, 9, 10日 (3〜5限目)
 * **教室:** 未定 (9〜10日はオンライン)
 * **シラバス:** [Link](Syllabus/Syllabus.pdf)
 
@@ -14,7 +14,7 @@
 |1|因果推論の考え方とランダム化比較試験| [DL](Slide/Slide_Day1.pdf)| [DL](Practice/Practice_Day1.html) ||
 |2|Rの使い方 (復習)| | | |
 |3|マッチング| [DL](Slide/Slide_Day2.pdf)| [DL](Practice/Practice_Day2.html) ||
-|4|差分の差分法| [DL](Slide/Slide_Day3.pdf)| DL ||
+|4|差分の差分法| [DL](Slide/Slide_Day3.pdf)| [DL](Practice/Practice_Day3.html) ||
 |5|回帰不連続デザイン| [DL](Slide/Slide_Day4.pdf)| [DL](Practice/Practice_Day4.html) ||
 
 ## 参考資料
